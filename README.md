@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Automate+Everything;Ship+Reliably;Build+Scalable+Systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+DevOps+Every+Day;Building+Production+Skills;Ready+for+Real+Projects&center=true&width=500&height=45">
 </p>
 
 
@@ -25,6 +25,10 @@
   <img src="https://img.icons8.com/color/96/gmail-new.png" height="50"/>
 </a>
 
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Lets+Connect;Feel+Free+to+Reach+Out;Always+Open+to+DevOps+Talk&center=true&width=500&height=45">
 </p>
 
 
@@ -58,18 +62,17 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=an4she21&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=an4she21&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=an4she21&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=an4she21&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an4she21&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an4she21&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=an4she21&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=an4she21&theme=tokyo-night"/>
 </p>
-
 
 ---
 <p align="center"><b>
