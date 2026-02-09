@@ -40,8 +40,36 @@
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 <img src="https://skillicons.dev/icons?i=prometheus" height="50"/>
 <img src="https://skillicons.dev/icons?i=grafana" height="50"/>
+<img src="https://img.icons8.com/color/96/jenkins.png" height="50"/>
+<img src="https://img.icons8.com/color/96/ansible.png" height="50"/>
+<img src="https://img.icons8.com/fluency/96/flask.png" height="50"/>
+<img src="https://img.icons8.com/color/96/jira.png" height="50"/>
+<img src="https://avatars.githubusercontent.com/u/545988?s=200&v=4" height="50"/>
+<img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="50"/>
 
 </p>
+
+--- 
+## 🚀 Currently Learning / Roadmap
+
+- Deepening Kubernetes production operations (security, scaling, reliability).
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=an4she21&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=an4she21&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an4she21&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=an4she21&theme=tokyo-night" />
+</p>
+
 
 ---
 <p align="center"><b>
