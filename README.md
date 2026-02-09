@@ -21,30 +21,28 @@
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-### ⚙️ Core
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-7b42bc?style=for-the-badge&logo=terraform)
+**Core**
+<p>
+  <img src="https://img.shields.io/badge/Linux-111?logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
+</p>
 
-### ☁️ Cloud & CI/CD
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions)
-![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash)
+**Cloud & CI/CD**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white"/>
+</p>
 
-### 📊 Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana)
+**Observability**
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"/>
+</p>
+
 
 ---
-
-## 🧠 DevOps Architecture Mindset
-
-```text
-Code → Git → CI/CD → Containers
-                 ↓
-          Kubernetes
-                 ↓
-     Monitoring & Alerting
