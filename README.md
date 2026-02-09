@@ -25,11 +25,11 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/hennour-anass-devops/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:anas.hennour.10@email.com">
   <img src="https://img.icons8.com/color/96/gmail-new.png" height="50"/>
 </a>
 
