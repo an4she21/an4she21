@@ -1,92 +1,113 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
-<h1 align="center">I'm Hennour Anass👨‍🎤</h1>
-<h3 align="center">
-  DevOps Engineer ⚙️| Linux • Containers • Orchestration • IaC • Cloud • CI/CD • Monitoring
+<div align="center">
 
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hennour%20Anass&fontAlign=50&fontAlignY=35&color=0:0f172a,25:1e3a8a,50:0ea5e9,75:22d3ee,100:38bdf8&fontColor=ffffff&fontSize=55&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineer&descAlignY=55&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Automate+Everything;Ship+Reliably;Build+Scalable+Systems&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Automate+Everything.;Build+Scalable+Platforms.;Ship+Reliably+%F0%9F%9A%80" alt="Typing intro"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=an4she21&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/an4she21?style=for-the-badge&color=1d4ed8&labelColor=0f172a"/>
+  <img src="https://img.shields.io/github/stars/an4she21?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=06b6d4&labelColor=0f172a"/>
 </p>
+
+</div>
+
+## 🌐 Let’s Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hennour-anass-devops/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anas.hennour.10@email.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<p align="center"><b>Open to DevOps / Cloud / Platform Engineering opportunities (Remote • Hybrid • On-site).</b></p>
 
 ---
 
-## 🌐 Connect with me
+## ⚙️ Tech Stack
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/hennour-anass-devops/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:anas.hennour.10@email.com">
-  <img src="https://img.icons8.com/color/96/gmail-new.png" height="50"/>
-</a>
-
-</p>
-
-<p align="center"><b>Open to DevOps / Cloud / Platform Engineering opportunities.</b></p>
-
-## ⚙ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
-<img src="https://skillicons.dev/icons?i=terraform" height="50"/>
-<img src="https://skillicons.dev/icons?i=aws" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=prometheus" height="50"/>
-<img src="https://skillicons.dev/icons?i=grafana" height="50"/>
-
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,github,prometheus,grafana,ansible,jenkins,python,bash&perline=6" />
+</div>
 
 ---
 
 ## 🚀 Currently Learning / Roadmap
 
-- Deepening Kubernetes production operations (security, scaling, reliability).
-- Advancing GitOps workflows with progressive delivery practices.
-- Strengthening AWS architecture and cost-optimization strategies.
-- Building end-to-end observability and SRE-focused monitoring patterns.
+<details open>
+  <summary><b>2026 Growth Plan (click to expand/collapse)</b></summary>
+  <br/>
+
+  - [ ] **Kubernetes at scale:** policy-as-code, workload hardening, and multi-cluster ops.
+  - [ ] **GitOps maturity:** Argo CD progressive delivery + rollback playbooks.
+  - [ ] **Cloud optimization:** AWS Well-Architected + cost observability patterns.
+  - [ ] **SRE practices:** SLO/SLI design, actionable alerts, and incident response workflows.
+
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Reliability-22c55e?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Focus-Automation-0ea5e9?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Focus-Scalability-6366f1?style=flat-square"/>
+  </p>
+</details>
 
 ---
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=an4she21&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=an4she21&theme=tokyonight" height="170"/>
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=an4she21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=an4she21&theme=tokyonight&hide_border=true"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an4she21&layout=compact&theme=tokyonight" height="170"/>
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an4she21&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=an4she21&theme=tokyo-night" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=an4she21&theme=tokyo-night&hide_border=true&radius=10"/>
+</div>
 
 ---
 
-## 🧭 CI/CD + Monitoring Reference Architecture
+## 🧭 CI/CD + Monitoring Architecture (Interactive)
+
+<details>
+  <summary><b>Open Architecture Diagram</b></summary>
+  <br/>
 
 ```mermaid
-flowchart LR
-    A[Developer Push] --> B[GitHub Actions CI]
-    B --> C[Build & Test]
-    C --> D[Docker Image]
-    D --> E[Container Registry]
-    E --> F[Kubernetes Cluster]
-    F --> G[Application]
-    G --> H[Prometheus]
-    H --> I[Grafana Dashboards]
-    I --> J[Alerts & Reliability Feedback]
+flowchart TD
+    Dev[👨‍💻 Developer Push] --> CI[⚙️ GitHub Actions CI]
+    CI --> Test[✅ Lint • Test • Security Scan]
+    Test --> Build[🐳 Build Docker Image]
+    Build --> Registry[📦 Container Registry]
+    Registry --> Deploy[☸️ Kubernetes Deploy]
+    Deploy --> App[🚀 Application Services]
+
+    App --> Metrics[📈 Prometheus Metrics]
+    App --> Logs[📚 Centralized Logs]
+    Metrics --> Dash[📊 Grafana Dashboards]
+    Logs --> Dash
+    Dash --> Alert[🚨 Alertmanager / Notifications]
+    Alert --> Feedback[🔁 Incident Feedback Loop]
+    Feedback --> Dev
+
+    classDef pipeline fill:#0ea5e9,stroke:#0284c7,color:#fff,stroke-width:1px;
+    classDef observe fill:#6366f1,stroke:#4338ca,color:#fff,stroke-width:1px;
+    classDef loop fill:#22c55e,stroke:#16a34a,color:#fff,stroke-width:1px;
+
+    class Dev,CI,Test,Build,Registry,Deploy,App pipeline;
+    class Metrics,Logs,Dash,Alert observe;
+    class Feedback loop;
 ```
+
+</details>
 
 ---
 
-<p align="center"><b>
-⭐ Automate everything • Ship reliably • Keep learning
-</b></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,30:1e40af,60:0ea5e9,100:22d3ee" width="100%"/>
+</div>
